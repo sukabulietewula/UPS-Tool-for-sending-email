@@ -1,0 +1,8 @@
+C:\UPS\email_script
+# email test
+python email_sender.py test
+# 测试低电量警报
+python email_sender.py simulate_low_battery
+# 测试邮件功能
+python C:\UPS\email_script\ups_monitor.py test
+#测试另一个脚本的发送邮件功能
